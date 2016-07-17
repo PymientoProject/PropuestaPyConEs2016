@@ -28,7 +28,7 @@ Español
 
 ### RELLENAR -&gt; Breve descripción \(500 palabras máximo -  párrafo\) -&gt; ESTO ES PÚBLICO
 
-En 2016, un grupo compuesto por los geeks ás bohemios de Almería, se unieron por un lenguaje de programación en el que no habían programado.
+En 2016, un grupo compuesto por los bohemios más inquietos de Almería, se unieron por un lenguaje de programación en el que no habían programado.
 
 No tardaron en robar unos portátiles del coworking donde se encontraban recluidos.
 
@@ -38,24 +38,13 @@ THE-PYMIENTO-PROJECT
 
 ### RELLENAR -&gt; Resumen detallado -&gt; ESTO ES PÚBLICO
 
-Hay una zona donde cofluyen la tecnología, el arte y demás facetas culturales humanas con las personas. Pymiento es un grupo de personas que se ha propuesto invadir esa interseccción de parcelas y no dejar títere con cabeza ¿Por qué? Porque vivimos en un mundo cambiante y necesitamos alfabetizarnos digitalmente. Queremos comprender donde vivimos 
+Hay una zona donde cofluyen la tecnología, el arte y demás facetas culturales con las personas. Pymiento es un grupo de personas que se ha propuesto invadir esa interseccción de parcelas y no dejar títere con cabeza ¿Por qué? Porque vivimos en un mundo cambiante y necesitamos alfabetizarnos digitalmente.
 
+_**"An Open World begins with an Open Mind"**_
 
-
-?PyConEs201 facilita la consecución de deseos y cubrir necesidades humanas. Puede ser ese su origen, pero la popularización y ampliación de su alcance provoca su aplicación en actividades humanas no productivas.
-
-Alrededor de un interés artístico, lúdico y explorativo, aparece dentro de un colectivo de personas inquietas en Almeria, la intención de aplicar una de las tecnologías más populares como Python que defiende principios compartidos con el colectivo como son:
-
-* Libertad
-* Belleza
-* Respeto y valoración del autor
-* Conocimiento abierto y compartido
-
-Este colectivo celebra la PyConES con la integración de código Python en dispositivos programables que participan en obras artísticas o sistemas que exploran el espacio compartido por el arte y la tecnología.
-La participación de tecnólogos y artistas completa y expande, con el uso de la tecnología, las obras y divertimentos artísticos.
-Música, arte generativo, interacción, comunicación, tratamiento de video, grafismo, forja, …. Todo puede ser integrado para reflejar las múltiples caras del icosaedro del “homo tecnologicum”
+Hemos tirado nuestros prejuicios al contenedor de residuos tóxicos y abierto nuestras inquietudes al mundo. Usando Python como herramienta, basamos nuestro aprendizaje en la creación de obras de manera cooperativa y multidisplinar. Nuestros Zen es sencillo _**"nadie debe ser discriminado por lo que conoce o lo que no conoce, así que si tienes ganas de hacer cosas, únete a nosotros"**_.
 
 ### RELLENAR -&gt; Notas adicionales -&gt; ESTO ES PRIVADO \(SOLO PARA LA ORGANIZACIÓN\)
 
-
-
+Somos los hippies de #ThePymientoProject. ~~Queremos~~ Necesitamos dar la charla (en el museo a poder ser) si o si, así que estamos dispuestos a ~~escrachearos~~ sobornaros.
+No se si nosotros seremos un exito o un fracaso de la PyConEs, pero distintos si que somos ;-)
